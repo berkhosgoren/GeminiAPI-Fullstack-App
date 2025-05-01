@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\services\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\services\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\dtos\\contentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\dtos\\contentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\dtos\\contentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\dtos\\contentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\geminiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\geminiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\data\\geminidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\data\\geminidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\migrations\\20241010113042_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\migrations\\20241010113042_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|c:\\users\\berk\\desktop\\gemini testing fullstack\\geminiapp\\geminiapp\\migrations\\20241011111201_addgeneratedresponsetocontentrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B23185-6F39-46EA-87E5-F00B01C30237}|GeminiApp\\GeminiApp.csproj|solutionrelative:geminiapp\\migrations\\20241011111201_addgeneratedresponsetocontentrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtTokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Services\\JwtTokenHelper.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\Services\\JwtTokenHelper.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Services\\JwtTokenHelper.cs",
+              "RelativeToolTip": "GeminiApp\\Services\\JwtTokenHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:32:50.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "GeminiApp\\Controllers\\ContentController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:43:08.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GeminiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Data\\GeminiDbContext.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\Data\\GeminiDbContext.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Data\\GeminiDbContext.cs",
+              "RelativeToolTip": "GeminiApp\\Data\\GeminiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:22:43.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\appsettings.json",
+              "RelativeDocumentMoniker": "GeminiApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\appsettings.json",
+              "RelativeToolTip": "GeminiApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T11:23:37.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Program.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Program.cs",
+              "RelativeToolTip": "GeminiApp\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:24:27.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Services\\GeminiService.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\Services\\GeminiService.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Services\\GeminiService.cs",
+              "RelativeToolTip": "GeminiApp\\Services\\GeminiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:33:16.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Entities\\User.cs",
+              "RelativeToolTip": "GeminiApp\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:21:55.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "GeminiApp\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:44:13.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GeminiApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:42:39.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\DTOs\\ContentRequestDto.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\DTOs\\ContentRequestDto.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\DTOs\\ContentRequestDto.cs",
+              "RelativeToolTip": "GeminiApp\\DTOs\\ContentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:50:31.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\DTOs\\ContentResponseDto.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\DTOs\\ContentResponseDto.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\DTOs\\ContentResponseDto.cs",
+              "RelativeToolTip": "GeminiApp\\DTOs\\ContentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:41:33.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GeminiApp",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\GeminiApp.csproj",
+              "RelativeDocumentMoniker": "GeminiApp\\GeminiApp.csproj",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\GeminiApp.csproj",
+              "RelativeToolTip": "GeminiApp\\GeminiApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T16:41:59.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241010113042_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Migrations\\20241010113042_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\Migrations\\20241010113042_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Migrations\\20241010113042_InitialCreate.cs",
+              "RelativeToolTip": "GeminiApp\\Migrations\\20241010113042_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:30:42.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241011111201_AddGeneratedResponseToContentRequests.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Migrations\\20241011111201_AddGeneratedResponseToContentRequests.cs",
+              "RelativeDocumentMoniker": "GeminiApp\\Migrations\\20241011111201_AddGeneratedResponseToContentRequests.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\Gemini Testing Fullstack\\GeminiApp\\GeminiApp\\Migrations\\20241011111201_AddGeneratedResponseToContentRequests.cs",
+              "RelativeToolTip": "GeminiApp\\Migrations\\20241011111201_AddGeneratedResponseToContentRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:12:01.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

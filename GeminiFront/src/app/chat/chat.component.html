@@ -1,0 +1,29 @@
+<div class="chat-wrapper">
+
+  <!-- Previous Questions Panel (localStorage based) -->
+  <div class="previous-questions-container">
+    <div class="previous-questions">
+      <h2>Previous Questions</h2>
+      <ul>
+        <li *ngFor="let message of messages">
+          <span *ngIf="message.user === username">{{ message.text }}</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Chat Panel -->
+  <div class="chat-container">
+    <div class="messages">
+      <div *ngFor="let message of messages"
+           [ngClass]="{ 'user-message': message.user === username, 'bot-message': message.user === 'Bot' }">
+        <span>{{ message.text }}</span>
+      </div>
+    </div>
+
+    <div class="input-container">
+      <input [(ngModel)]="userInput" placeholder="Type your message..." (keyup.enter)="sendMessage()" [disabled]="loading" />
+      <button (click)="sendMessage()" [disabled]="loading">Send</button>
+    </div>
+  </div>
+</div>

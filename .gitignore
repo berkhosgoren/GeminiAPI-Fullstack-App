@@ -1,0 +1,17 @@
+# Backend (.NET)
+GeminiApp/**/bin/
+GeminiApp/**/obj/
+GeminiApp/**/appsettings.json
+GeminiApp/**/appsettings.Development.json
+GeminiApp/**/*.user
+GeminiApp/**/*.suo
+
+# Frontend (Angular)
+GeminiFront/node_modules/
+GeminiFront/dist/
+GeminiFront/.angular/
+GeminiFront/.vscode/
+
+# Common
+.env
+*.log

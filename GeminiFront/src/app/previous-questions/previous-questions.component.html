@@ -1,0 +1,10 @@
+<div class="previous-questions">
+  <h2>Your Previous Questions</h2>
+  <ul>
+    <li *ngFor="let item of previousQuestions">
+      <strong>You:</strong> {{ item.text }}<br />
+      <strong>Bot:</strong> {{ item.generatedResponse }}<br />
+      <small>{{ item.createdAt | date:'short' }}</small>
+    </li>
+  </ul>
+</div>

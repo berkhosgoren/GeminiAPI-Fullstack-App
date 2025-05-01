@@ -1,0 +1,125 @@
+/* Main wrapper for chat components */
+.chat-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+    background-color: #f0f0f0;
+    position: relative;
+  }
+  
+  /* Previous Questions Container - fixed to the left and vertically centered */
+  .previous-questions-container {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 200px;
+  }
+  
+  /* Previous Questions Section */
+  .previous-questions {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #3a3939;
+    color: white;
+    overflow-y: auto;
+    height: 600px; /* Increased height */
+    max-width: 100%;
+  }
+  
+  /* Main Chat and Input Section */
+  .chat-container {
+    display: flex;
+    flex-direction: column;
+    width: 90%;  /* Increased width */
+    max-width: 1200px;  /* Increased max width */
+  }
+  
+  /* Chat Messages Section */
+  .messages {
+    flex-grow: 1;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    height: 600px;  /* Increased height */
+    overflow-y: auto;
+    background-color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  /* Input Container at the bottom */
+  .input-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  /* Input Area styling */
+  .input-area {
+    display: flex;
+    width: 100%;
+    max-width: 900px;  /* Increased input box width */
+    padding: 12px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .input-area input {
+    flex: 1;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 14px;  /* Increased padding */
+    font-size: 1rem;
+  }
+  
+  .input-area button {
+    margin-left: 10px;
+    padding: 14px 20px;  /* Increased button size */
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .input-area button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Align user messages to the right and bot messages to the left */
+  .user-message {
+    text-align: right;
+    margin-bottom: 10px;
+  }
+  
+  .bot-message {
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  
+  .user-message span {
+    background-color: #007bff;
+    color: white;
+    padding: 14px;
+    border-radius: 12px;
+    display: inline-block;
+    max-width: 75%;  /* Slightly increased message width */
+    word-wrap: break-word;
+    margin-left: auto;
+  }
+  
+  .bot-message span {
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 14px;
+    border-radius: 12px;
+    display: inline-block;
+    max-width: 75%;  /* Slightly increased message width */
+    word-wrap: break-word;
+    margin-right: auto;
+  }
+  
